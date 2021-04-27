@@ -1,4 +1,4 @@
-package conceptos_basicos;
+package TP2;
 
 public class ej1 {
     public static void main(String[] args) {

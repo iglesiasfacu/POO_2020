@@ -1,4 +1,4 @@
-package conceptos_basicos;
+package TP2;
 
 //clase entero
 public class Entero {
@@ -34,11 +34,11 @@ public class Entero {
 
     public long factorial(){
         long factorial = 1;
-        while(numero>0) {
+        while(numero>0){
             factorial*=numero;
             numero--;
-          }
+        }
         return factorial;
-      }
+    }
 
 }
